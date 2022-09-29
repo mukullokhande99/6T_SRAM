@@ -21,19 +21,19 @@ Design, Implementation and Simulation of 6T SRAM Cell under Mixed Signal SOC Des
 
 # Open Source Tools Used
 
-**eSim**
+**eSim** : 
 It is an Open Source EDA developed by FOSSEE, IIT Bombay. It is used for electronic circuit simulation. It is made by the combination of two software namely NgSpice and KiCAD. For more details refer:
 https://esim.fossee.in/home
 
-**NgSpice**
+**NgSpice** : 
 It is an Open Source Software for Spice Simulations. For more details refer:
 http://ngspice.sourceforge.net/docs.html
 
-**Makerchip**
+**Makerchip** : 
 It is an Online Web Browser IDE for Verilog/System-verilog/TL-Verilog Simulation. For more details refer:
 https://www.makerchip.com/
 
-**Verilator**
+**Verilator** : 
 It is a tool which converts Verilog code to C++ objects. For more details refer:
 https://www.veripool.org/verilator/
 
